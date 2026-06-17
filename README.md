@@ -1,6 +1,6 @@
 # WitcherTextRpg
 
-Tekstowa, turowa gra RPG w C# przygotowana na podstawie diagramu UML.
+Tekstowa, turowa gra RPG w C#.
 
 ## Zawarte elementy
 
