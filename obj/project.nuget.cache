@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Hp8g9xus8c=",
+  "success": true,
+  "projectFilePath": "/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/WitcherTextRpg.csproj",
+  "expectedPackageFiles": [
+    "/Users/dawidchmielewski/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/Users/dawidchmielewski/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/Users/dawidchmielewski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.25/microsoft.netcore.app.host.osx-arm64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

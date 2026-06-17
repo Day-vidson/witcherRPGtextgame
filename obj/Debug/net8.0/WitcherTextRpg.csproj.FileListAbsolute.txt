@@ -1,0 +1,14 @@
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/bin/Debug/net8.0/WitcherTextRpg
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/bin/Debug/net8.0/WitcherTextRpg.deps.json
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/bin/Debug/net8.0/WitcherTextRpg.runtimeconfig.json
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/bin/Debug/net8.0/WitcherTextRpg.dll
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/bin/Debug/net8.0/WitcherTextRpg.pdb
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/obj/Debug/net8.0/WitcherTextRpg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/obj/Debug/net8.0/WitcherTextRpg.AssemblyInfoInputs.cache
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/obj/Debug/net8.0/WitcherTextRpg.AssemblyInfo.cs
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/obj/Debug/net8.0/WitcherTextRpg.csproj.CoreCompileInputs.cache
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/obj/Debug/net8.0/WitcherTextRpg.dll
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/obj/Debug/net8.0/refint/WitcherTextRpg.dll
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/obj/Debug/net8.0/WitcherTextRpg.pdb
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/obj/Debug/net8.0/WitcherTextRpg.genruntimeconfig.cache
+/Users/dawidchmielewski/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/Sem6/design_and_dev_app/project/WitcherTextRpg/obj/Debug/net8.0/ref/WitcherTextRpg.dll
